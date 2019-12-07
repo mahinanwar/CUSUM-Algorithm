@@ -18,9 +18,14 @@ The first step is to form a hypothesis regarding statistical change and develop 
 ## File Description
 The following project contains six files (4 .m files and 2 datasets). Their details are mentioned below:
 
-1- DataSetH0: Dataset replicating conditions when no change is detected
+1- DataSetH0: Dataset replicating conditions when no change is detected.
+
 2- DataSetH1: Dataset replicating conditions when a change is detected.
+
 3- Main.m: This is the root file where all the functions are called and executed.
+
 4- CalculatePDF.m: This is the file which contains the steps required to calculate the probability density functions (pdf's).
+
 5- CalculateLLR.m: This is the file which contains all the procedures required to calculate the 'Log Likelihood Ratio (LLR)'.
+
 6- AlgoCUSUM.m: This is the file which contains the implementation of the CUSUM algorithm. 
