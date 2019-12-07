@@ -2,7 +2,7 @@
 In statistical quality control, the CUSUM (Cumulative Sum) is a sequential analysis technique developed by E.S Page of the University of Cambridge. It is typically used for monitoring change detection.
 
 ## Objective
-The objective of this project is to adres the problem of 'Multipath Detection' in 'Global Navigation Satellite Systems (GNSS)' receivers. The focus of this project will be to analyse multipath detection based on measurements that correspond to the DLL metric. It is to be kept under consideration that this project is similar to the ‘IGNSSrx’ project funded by the ‘European Commission’.
+The objective of this project is to adress the problem of 'Multipath Detection' in 'Global Navigation Satellite Systems (GNSS)' receivers. The focus of this project will be to analyse multipath detection based on measurements that correspond to the DLL metric. It is to be kept under consideration that this project is similar to the ‘IGNSSrx’ project funded by the ‘European Commission’.
 
 ## Global Navigation Satellite Systems (GNSS)
 The fundamental principle of GNSS positioning is based on the measurement of the distance between a set of visible satellites and the user receiver. To do so, the satellite transmits radio frequency signals, which are received by the GNSS receiver. The latter processes these signals in order to measure the time that the signal has travelled from the satellite to the receiver so that the distance can be computed.
