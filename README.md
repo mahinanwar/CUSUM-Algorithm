@@ -23,4 +23,4 @@ The following project contains six files (4 .m files and 2 datasets). Their deta
 3- Main.m: This is the root file where all the functions are called and executed.
 4- CalculatePDF.m: This is the file which contains the steps required to calculate the probability density functions (pdf's).
 5- CalculateLLR.m: This is the file which contains all the procedures required to calculate the 'Log Likelihood Ratio (LLR)'.
-6- AlgoCUSUM.m: This is the filewhich contains the implementation of the CUSUM algorithm. 
+6- AlgoCUSUM.m: This is the file which contains the implementation of the CUSUM algorithm. 
